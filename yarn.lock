@@ -1348,7 +1348,7 @@ ember-cli-broccoli-sane-watcher@^2.0.4:
     rsvp "^3.0.18"
     sane "^1.1.1"
 
-ember-cli-deploy-build@1.0.0:
+ember-cli-deploy-build@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-build/-/ember-cli-deploy-build-1.0.0.tgz#b5b938ad907c6423df39590a804e98d4eb87259b"
   dependencies:
@@ -1357,7 +1357,7 @@ ember-cli-deploy-build@1.0.0:
     glob "^7.1.1"
     rsvp "^3.5.0"
 
-ember-cli-deploy-display-revisions@1.0.0:
+ember-cli-deploy-display-revisions@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-display-revisions/-/ember-cli-deploy-display-revisions-1.0.0.tgz#72ad8cf74d94e996ae0a52cd1403fd9195db38df"
   dependencies:
@@ -1367,7 +1367,7 @@ ember-cli-deploy-display-revisions@1.0.0:
     moment "^2.18.0"
     rsvp "^3.5.0"
 
-ember-cli-deploy-gzip@1.0.0:
+ember-cli-deploy-gzip@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-gzip/-/ember-cli-deploy-gzip-1.0.0.tgz#32b6fcc96ed6d571ad4e5b0c08e53e93d717347f"
   dependencies:
@@ -1377,7 +1377,7 @@ ember-cli-deploy-gzip@1.0.0:
     minimatch "^3.0.3"
     rsvp "^3.5.0"
 
-ember-cli-deploy-manifest@1.0.0:
+ember-cli-deploy-manifest@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-manifest/-/ember-cli-deploy-manifest-1.0.0.tgz#47ea079f8db4c94bc44b652762320cdc4cc781e7"
   dependencies:
@@ -1395,7 +1395,7 @@ ember-cli-deploy-plugin@^0.2.1, ember-cli-deploy-plugin@^0.2.2, ember-cli-deploy
     core-object "2.0.6"
     lodash.clonedeep "^4.5.0"
 
-ember-cli-deploy-redis@1.0.0:
+ember-cli-deploy-redis@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-redis/-/ember-cli-deploy-redis-1.0.0.tgz#4ce609fc2eda8f23dde1c2abb5e3bf7ab399619f"
   dependencies:
@@ -1406,7 +1406,7 @@ ember-cli-deploy-redis@1.0.0:
     rsvp "^3.0.18"
     then-redis "^2.0.1"
 
-ember-cli-deploy-revision-data@1.0.0:
+ember-cli-deploy-revision-data@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-revision-data/-/ember-cli-deploy-revision-data-1.0.0.tgz#e870abc79f25bc96fe5532fec41baa9e1bc3ccc6"
   dependencies:
@@ -1418,7 +1418,7 @@ ember-cli-deploy-revision-data@1.0.0:
     rsvp "^3.5.0"
     simple-git "^1.57.0"
 
-ember-cli-deploy-s3@1.0.0:
+ember-cli-deploy-s3@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-deploy-s3/-/ember-cli-deploy-s3-1.0.0.tgz#c83c765de45fd5b591cb80fa1889f4d0e7534a61"
   dependencies:
